@@ -1,21 +1,21 @@
 ## File description
 
-data/train_seq_0X.txt
+# data/train_seq_0X.txt
 - training data (10K observation sequences)
-data/test_lbl.txt
+# data/test_lbl.txt
 - testing labels
-data/test_seq.txt
+# data/test_seq.txt
 - Testing data (2.5K observation sequences)
-model_init.txt
+# model_init.txt
 - initial model parameters
-modellist.txt
+# modellist.txt
 - paths to model files
-Makefile
-inc/hmm.h
+# Makefile
+# inc/hmm.h
 - load and dump HMM models
-src/train.c
+# src/train.c
 - train model
-src/test.c
+# src/test.c
 - test model
 
 ## Compiling
