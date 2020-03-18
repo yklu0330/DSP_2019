@@ -1,1 +1,1 @@
-Introduction to Digital Speech Processing, NTU, 2019autumn  
+Introduction to Digital Speech Processing, NTU, 2019 autumn  
