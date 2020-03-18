@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.6455 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.6455 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0023509828058350096 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0023509828058350096 
+            xmax = 0.1014405543999158 
+            text = "sic_i" 
+        intervals [3]:
+            xmin = 0.1014405543999158 
+            xmax = 0.17575773309547638 
+            text = "i" 
+        intervals [4]:
+            xmin = 0.17575773309547638 
+            xmax = 0.17953672027226292 
+            text = "" 
+        intervals [5]:
+            xmin = 0.17953672027226292 
+            xmax = 0.22164978819974726 
+            text = "j_u" 
+        intervals [6]:
+            xmin = 0.22164978819974726 
+            xmax = 0.439646845706725 
+            text = "uen" 
+        intervals [7]:
+            xmin = 0.439646845706725 
+            xmax = 0.4941461100834694 
+            text = "j_u" 
+        intervals [8]:
+            xmin = 0.4941461100834694 
+            xmax = 0.7369155604889673 
+            text = "uen" 
+        intervals [9]:
+            xmin = 0.7369155604889673 
+            xmax = 0.7740741498367476 
+            text = "g_u" 
+        intervals [10]:
+            xmin = 0.7740741498367476 
+            xmax = 0.7765513891265997 
+            text = "" 
+        intervals [11]:
+            xmin = 0.7765513891265997 
+            xmax = 0.9648215751553532 
+            text = "uei" 
+        intervals [12]:
+            xmin = 0.9648215751553532 
+            xmax = 0.9672988144452052 
+            text = "chi_u" 
+        intervals [13]:
+            xmin = 0.9672988144452052 
+            xmax = 1.073820103908842 
+            text = "chi_iu" 
+        intervals [14]:
+            xmin = 1.073820103908842 
+            xmax = 1.076297343198694 
+            text = "" 
+        intervals [15]:
+            xmin = 1.076297343198694 
+            xmax = 1.2893399221259678 
+            text = "iuan" 
+        intervals [16]:
+            xmin = 1.2893399221259678 
+            xmax = 1.2902861832408123 
+            text = "" 
+        intervals [17]:
+            xmin = 1.2902861832408123 
+            xmax = 1.3720350798059289 
+            text = "d_a" 
+        intervals [18]:
+            xmin = 1.3720350798059289 
+            xmax = 1.3745123190957809 
+            text = "" 
+        intervals [19]:
+            xmin = 1.3745123190957809 
+            xmax = 1.4909425657188258 
+            text = "ai" 
+        intervals [20]:
+            xmin = 1.4909425657188258 
+            xmax = 1.5528735479651263 
+            text = "t_i" 
+        intervals [21]:
+            xmin = 1.5528735479651263 
+            xmax = 1.5553507872549783 
+            text = "" 
+        intervals [22]:
+            xmin = 1.5553507872549783 
+            xmax = 1.756007169732992 
+            text = "i" 
+        intervals [23]:
+            xmin = 1.756007169732992 
+            xmax = 1.7607848513770559 
+            text = "" 
+        intervals [24]:
+            xmin = 1.7607848513770559 
+            xmax = 1.8227158336233564 
+            text = "j_o" 
+        intervals [25]:
+            xmin = 1.8227158336233564 
+            xmax = 1.8251930729132084 
+            text = "" 
+        intervals [26]:
+            xmin = 1.8251930729132084 
+            xmax = 2.0630080447390022 
+            text = "ou" 
+        intervals [27]:
+            xmin = 2.0630080447390022 
+            xmax = 2.064620039068671 
+            text = "m_a" 
+        intervals [28]:
+            xmin = 2.064620039068671 
+            xmax = 2.324730164503133 
+            text = "m_a" 
+        intervals [29]:
+            xmin = 2.324730164503133 
+            xmax = 2.4832734790536626 
+            text = "a" 
+        intervals [30]:
+            xmin = 2.4832734790536626 
+            xmax = 2.6455 
+            text = "sil" 
