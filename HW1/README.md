@@ -1,6 +1,6 @@
 ## File description
 
-### data/train_seq_0X.txt
+#### data/train_seq_0X.txt
 - training data (10K observation sequences)
 ### data/test_lbl.txt
 - testing labels
