@@ -26,7 +26,7 @@ To compile the code successfully, install SRILM toolkit before compiling. It is 
 `$ perl separator_big5.pl corpus.txt > seg.txt`
 
 ## Language Model
-`$ ngram-count ‒text corpus.txt ‒write count.txt ‒order 2`
+`$ ngram-count ‒text corpus.txt ‒write count.txt ‒order 2`  
 `$ ngram-count ‒read count.txt ‒lm lm.txt ‒order 2 -unk`
 
 ## Compiling
