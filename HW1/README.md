@@ -19,7 +19,7 @@
 - test model
 
 ## Compiling
-make
+`$ make`  
 
 ## Training
 `$ ./train 100 model_init.txt data/train_seq_01.txt model01.txt`  
